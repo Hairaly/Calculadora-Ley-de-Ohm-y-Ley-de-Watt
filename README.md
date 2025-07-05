@@ -12,8 +12,18 @@ El usuario puede seleccionar entre las dos leyes disponibles usando botones de o
 
 
 ## 💻 Requisitos
+- [Visual Studio 2019 o superior](https://visualstudio.microsoft.com/)
+- .NET Framework 4.7.2 (o compatible)
+- Sistema operativo Windows
+
 
 ## 📁 Estructura del proyecto
+```
+Calculadora-Ley-de-Ohm-y-Ley-de-Watt
+├── Calculadora_Ley de Ohm_ Ley de Watt.vb
+└── README.md
+```
+
 
 ## ▶️ Cómo ejecutar el proyecto
 1. Clona el repositorio:
@@ -21,3 +31,11 @@ El usuario puede seleccionar entre las dos leyes disponibles usando botones de o
    git clone
 2.Abre el archivo .sln en Visual Studio.
 3.Presiona F5 o haz clic en Iniciar para compilar y ejecutar.
+
+
+## 🧠 Lógica del juego
+
+## 📸 Capturas de pantalla 
+![image](https://github.com/user-attachments/assets/daf97792-c64e-4b1b-a27b-d7334aa2d709)
+
+![image](https://github.com/user-attachments/assets/edff6de9-5d80-44ac-a88c-a5275f40c967)
