@@ -7,7 +7,7 @@ El usuario puede seleccionar entre las dos leyes disponibles usando botones de o
 ## 📐 Leyes Implementadas
 
 ### 🔹 Ley de Ohm:
-Relaciona el voltaje, la corriente, la resistencia y la potencia:
+Relaciona el voltaje (V), la corriente (C), la resistencia (R) y la potencia (P):
 
 - **V = C × R**
 - **R = V ÷ C**
@@ -15,7 +15,7 @@ Relaciona el voltaje, la corriente, la resistencia y la potencia:
 - **P = V × C**
   
 ### 🔹 Ley de Watt:
-Relaciona la potencia, el voltaje, la corriente y la resistencia:
+Relaciona la potencia (P), el voltaje (V), la corriente (C) y la resistencia (R):
 - **R = (V ^ 2) ÷ P**
 - **P = (V ^ 2) ÷ R**
 - **V = P ÷ C**
