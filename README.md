@@ -34,6 +34,7 @@ Calculadora-Ley-de-Ohm-y-Ley-de-Watt
 
 
 ## 🧠 Lógica del juego
+Ir a **`Calculadora_Ley de Ohm_ Ley de Watt.vb`** para ver el codigo.
 
 ## 📸 Capturas de pantalla 
 ![image](https://github.com/user-attachments/assets/daf97792-c64e-4b1b-a27b-d7334aa2d709)
