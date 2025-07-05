@@ -1,8 +1,25 @@
-# Calculadora-Ley-de-Ohm-y-Ley-de-Watt
+# Calculadora de Ley de Ohm y Ley de Watt
 Este proyecto es una aplicación de escritorio educativa diseñada para facilitar el aprendizaje y la práctica de los fundamentos de la electricidad mediante el uso de dos leyes fundamentales: la Ley de Ohm y la Ley de Watt, que permite calcular **resistencia, voltaje, corriente y potencia** eléctrica. Desarrollado en Visual Basic .NET con interfaz gráfica en Windows Forms.
 
 El usuario puede seleccionar entre las dos leyes disponibles usando botones de opción y luego ingresar los valores conocidos en los campos de texto correspondientes. Según la fórmula seleccionada, el programa calcula automáticamente el valor faltante y lo muestra en pantalla.
 
+
+## 📐 Leyes Implementadas
+
+### 🔹 Ley de Ohm:
+Relaciona el voltaje, la corriente, la resistencia y la potencia:
+
+- **V = C × R**
+- **R = V ÷ C**
+- **C = V ÷ R**
+- **P = V × C**
+  
+### 🔹 Ley de Watt:
+Relaciona la potencia, el voltaje, la corriente y la resistencia:
+- **R = (V ^ 2) ÷ P**
+- **P = (V ^ 2) ÷ R**
+- **V = P ÷ C**
+- **C = P ÷ V**
 
 ## 🧩 Características
 - ✅ Cálculo automático según la **Ley de Ohm** o **Ley de Watt**.
@@ -11,10 +28,12 @@ El usuario puede seleccionar entre las dos leyes disponibles usando botones de o
 - ✅ Compatible con **Visual Studio** para futuras mejoras o personalización.
 
 
+
 ## 💻 Requisitos
 - [Visual Studio 2019 o superior](https://visualstudio.microsoft.com/)
 - .NET Framework 4.7.2 (o compatible)
 - Sistema operativo Windows
+
 
 
 ## 📁 Estructura del proyecto
@@ -25,16 +44,21 @@ Calculadora-Ley-de-Ohm-y-Ley-de-Watt
 ```
 
 
+
 ## ▶️ Cómo ejecutar el proyecto
 1. Clona el repositorio:
    ```bash
-   git clone
+   git clone https://github.com/Hairaly/Calculadora-Ley-de-Ohm-y-Ley-de-Watt.git
 2.Abre el archivo .sln en Visual Studio.
+
 3.Presiona F5 o haz clic en Iniciar para compilar y ejecutar.
+
 
 
 ## 🧠 Lógica del juego
 Ir a **`Calculadora_Ley de Ohm_ Ley de Watt.vb`** para ver el codigo.
+
+
 
 ## 📸 Capturas de pantalla 
 ![image](https://github.com/user-attachments/assets/daf97792-c64e-4b1b-a27b-d7334aa2d709)
