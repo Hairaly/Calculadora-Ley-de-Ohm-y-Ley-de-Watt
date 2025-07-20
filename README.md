@@ -48,7 +48,7 @@ Calculadora-de-Magnitudes-Electricas
 ## ▶️ Cómo ejecutar el proyecto
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/Hairaly/Calculadora-Ley-de-Ohm-y-Ley-de-Watt.git
+   git clone https://github.com/Hairaly/Calculadora-de-Magnitudes-Electricas.git
 2.Abre el archivo .sln en Visual Studio.
 
 3.Presiona F5 o haz clic en Iniciar para compilar y ejecutar.
