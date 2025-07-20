@@ -38,8 +38,8 @@ Relaciona la potencia (P), el voltaje (V), la corriente (C) y la resistencia (R)
 
 ## 📁 Estructura del proyecto
 ```
-Calculadora-Ley-de-Ohm-y-Ley-de-Watt
-├── Calculadora_Ley de Ohm_ Ley de Watt.vb
+Calculadora-de-Magnitudes-Electricas
+├── Calculadora de Magnitudes Eléctricas.vb
 └── README.md
 ```
 
@@ -56,7 +56,7 @@ Calculadora-Ley-de-Ohm-y-Ley-de-Watt
 
 
 ## 🧠 Lógica del juego
-Ir a **`Calculadora_Ley de Ohm_ Ley de Watt.vb`** para ver el codigo.
+Ir a **`Calculadora de Magnitudes Eléctricas.vb`** para ver el codigo.
 
 
 
